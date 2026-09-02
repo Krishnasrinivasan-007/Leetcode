@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -16,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
