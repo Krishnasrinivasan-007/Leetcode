@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
