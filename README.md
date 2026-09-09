@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0007-reverse-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
