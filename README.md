@@ -27,6 +27,7 @@
 | [0054-spiral-matrix](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
