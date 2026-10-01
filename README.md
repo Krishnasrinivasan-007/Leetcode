@@ -25,6 +25,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
