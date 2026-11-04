@@ -27,6 +27,7 @@
 | [0039-combination-sum](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krishnasrinivasan-007/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
